@@ -45,7 +45,7 @@ If you have any feedback to offer there are three ways we invite you to do that.
 
 Based on the feedback given, there may be a need to have more discussion around this proposal in person. Alternatively we may move to formally ratify this as our new Special Character. 
 
-Once there is wide agreement, the KWT trust as guardians of the special character at Te Ra school has the formal responsibility to adopt the proposal, or otherwise. At this point the trust, the board and the college of teachers can move to ensure the new guidelines are incorporated into the parent handout, the school charter, the code of conduct and into our public website.
+Once there is wide agreement, the KWT trust, as guardians of the special character at Te Ra school, has the formal responsibility to adopt the proposal (or otherwise). At this point the trust, the board and the college of teachers can move to ensure the new guidelines are incorporated into the parent handout, the school charter, the code of conduct and into our public website.
 
 ###Thank you for your input
 
