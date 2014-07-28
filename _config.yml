@@ -3,15 +3,15 @@ tagline:          Unity, community and celebration.
 description:      A proposal to change the special character at Te Ra Waldorf School
 #baseurl:  /specialcharacter
 #Comment out url when working locally to resolve base urls correctly
-url: http://utunga.github.io/specialcharacter
+#url: http://utunga.github.io/specialcharacter
 
 # Links to include in top navigation
 # For external links add external: true
 links:
   - title: Proposal
-    url: /proposal
+    url: /
   - title: About this site
-    url: /about
+    url: /about.html
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Pacific/Auckland

@@ -24,11 +24,11 @@ We believe it is now ready for wider consultation with parents, faculty and trus
 
 We want to know your thoughts. How does this document ‘feel’ to you? Does it describe what we are and what we need to be?
 
-- Click here to view <a href="{{site.url}}/proposal/Special_Character_Guiding_Principles_DRAFT_12_June_2014.pdf">the latest draft (as of June 12 2014)</a>
+- <a href="{{site.url}}/proposal/Special_Character_Guiding_Principles_DRAFT_12_June_2014.pdf"><img src="{{site.url}}/images/pdf_icon.png" class="icon" /> The latest draft</a> as of June 12 2014.
 
-- Click here for the <a href="{{site.url}}/proposal/Guiding_Principles_as_now.pdf">"Special Character Guidelines"</a> document as it is currently (as of 2008).
+- <a href="{{site.url}}/proposal/Guiding_Principles_as_now.pdf"><img src="{{site.url}}/images/pdf_icon.png" class="icon" /> The "Special Character Guidelines" document</a> as it is currently, from 2008.
 
-- Click here to view a comparison of the two.
+- <a href="{{site.url}}proposal/Guiding_Principles_Diff_April_2014_vs_2008.pdf"><img src="{{site.url}}/images/pdf_icon.png" class="icon" />Click here for a comparison of the two</a>.
 
 ###How to provide feedback
 

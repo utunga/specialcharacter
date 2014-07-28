@@ -20,7 +20,7 @@ $grey-light:  #d9d9d9;
 $hilite: #fffbd7;
 
 /* Accent Colors */
-$link: #8AB9D1;
+$link: #0571FA; /*8AB9D1; */
 $accent: #24536B;
 
 
@@ -35,7 +35,7 @@ $serif: "Calendas Plus","Crimson Text", "Hoefler Text", "Georgia", serif;
 /* Type Scale
    ========================================================================== */
 
-/** * 12 & 16 as roots then powers of two. */
+/** * 12 & 16 as roots then powers of two. 
 
 $fs1:64px;
 $fs2:48px;
@@ -47,10 +47,23 @@ $fsp:22px;
 $fs5:16px;
 $fs6:12px;
 
-// Line Height
-
 $lh: 33px;
 $lhsmall: 24px;
+*/
+
+$fs1:48px;
+$fs2:32px;
+$fs3:24px;
+$fs4:22px;
+$fsp:18px;
+$fs5:16px;
+$fs6:14px;
+
+
+// Line Height
+
+$lh: 24px;
+$lhsmall: 18px;
 
 // Sizing 
 $footerHeight: 40px;

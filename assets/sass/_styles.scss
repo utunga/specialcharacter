@@ -27,6 +27,7 @@ a, a:visited, a:active {
 
 a:hover {
     color: $accent;
+    text-decoration: underline;
     @include transit(all,.25s, ease-in-out)
 }
 
@@ -267,7 +268,6 @@ header.site-header nav {
   }
 }
 
-
 /* Article Stuff */
 
    
@@ -282,7 +282,7 @@ header.site-header nav {
         width: 100%;
         max-height: 800px;
         position: absolute;
-        z-index: 2;
+       
         background: rgba(0,0,0,.55);
     }
     .overlay-lighter {
@@ -304,6 +304,7 @@ header.site-header nav {
         position: relative;
         top: 0;
         z-index: -1;
+        margin-bottom: 20px;
         img {
             max-height: 800px;
         }
@@ -311,13 +312,12 @@ header.site-header nav {
     
     // Header Stuff
     header {
+        position: absolute;
         margin: (2*$lh) 0 $lh 0;
         hgroup {
-            color: $black;
-            position: relative;
-            text-align: center;
-            width: 100%;
-            margin-top: 0;
+            color: #FFFFFF;
+            width: 700px; 
+            margin-top: -340px;
             .date {
                 font-family: $sans;
                 font-size: $fs5;
@@ -326,6 +326,7 @@ header.site-header nav {
                 text-transform: uppercase;
                 margin-top: $lh * 2/3;
             }
+            
         }
         
         .intro {
@@ -491,6 +492,14 @@ header.site-header nav {
         @include br(4px);
     }
     
+    img.icon  {
+        display: inline;
+        margin: 0 10px 0 0;
+        width:30px;
+        height:30px;
+        @include br(0px);
+    }
+
     ul {
         display: block;
         margin-bottom: $lh;
