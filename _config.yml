@@ -3,7 +3,7 @@ tagline:          Unity, community and celebration.
 description:      A proposal to change the special character at Te Ra Waldorf School
 #baseurl:  /specialcharacter
 #Comment out url when working locally to resolve base urls correctly
-#url: http://utunga.github.io/specialcharacter
+url: http://utunga.github.io/specialcharacter
 
 # Links to include in top navigation
 # For external links add external: true
