@@ -55,7 +55,7 @@ With kind regards from the Kapiti Waldorf Trust:
 
 And from selected representatives of the parent group:
 
-- Timoti Brown, Lenka Rochford, Miles Thompson, Vernon Trainer and Te Ariki Wineera
+- Timoti Brown, Lenka Rochford, Miles Thompson, Vernon Trainor, Janine Walker and Te Ariki Wineera
 
 
 
