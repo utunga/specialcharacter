@@ -28,7 +28,7 @@ We want to know your thoughts. How does this document ‘feel’ to you? Does it
 
 - <a href="{{site.url}}/proposal/Guiding_Principles_as_now.pdf"><img src="{{site.url}}/images/pdf_icon.png" class="icon" /> The "Special Character Guidelines" document</a> as it is currently, from 2008.
 
-- <a href="{{site.url}}proposal/Guiding_Principles_Diff_April_2014_vs_2008.pdf"><img src="{{site.url}}/images/pdf_icon.png" class="icon" />Click here for a comparison of the two</a>.
+- <a href="{{site.url}}/proposal/Guiding_Principles_Diff_April_2014_vs_2008.pdf"><img src="{{site.url}}/images/pdf_icon.png" class="icon" />Click here for a comparison of the two</a>.
 
 ###How to provide feedback
 
