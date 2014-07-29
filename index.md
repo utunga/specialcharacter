@@ -12,7 +12,7 @@ This website presents a proposal for new 'Special Character Guidelines' for Te R
 
 The draft presented here is the result of a joint effort between a group of parents, the Kapiti Waldorf Trust, the Faculty, the College of Teachers and the Board of Trustees. It had its origin from two strands that began in parallel back in 2013: 
 
-- A grass roots movement of parents (beginning in July 2013) who felt that the wording of our special character document would was a place where we could get specific about the direction the school needed to move in if it was to  respond to the challenge that had been brought to the school in regards to the unacceptable writings of Rudolf Steiner.
+- A grass roots movement of parents (beginning in July 2013) who felt that the wording of our special character document was a place where we could get specific about the direction the school needed to move in if it was to  respond to the challenge that had been brought to the school in regards to the unacceptable writings of Rudolf Steiner.
 
 - The Kapiti Waldorf Trust who separately initiated a review of the special guidelines in November 2013. 
 
