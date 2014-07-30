@@ -12,9 +12,9 @@ This website presents a proposal for new 'Special Character Guidelines' for Te R
 
 The draft presented here is the result of a joint effort between a group of parents, the Kapiti Waldorf Trust, the Faculty, the College of Teachers and the Board of Trustees. It had its origin from two strands that began in parallel back in 2013: 
 
-- A grass roots movement of parents (beginning in July 2013) who felt that the wording of our special character document was a place where we could get specific about the direction the school needed to move in if it was to  respond to the challenge that had been brought to the school in regards to the unacceptable writings of Rudolf Steiner.
+- A grass roots movement of parents (beginning in July 2013) who felt that the wording of our special character guidelines was a place where we could get specific about the direction the school needed to move in if it was to  respond to the challenge that had been brought to the school in regards to the unacceptable writings of Rudolf Steiner.
 
-- The Kapiti Waldorf Trust who separately initiated a review of the special guidelines in November 2013. 
+- The Kapiti Waldorf Trust who separately initiated a review of the special character guidelines in November 2013. 
 
 The DRAFT presented is the result of many conversations and much collaboration that has taken place since then. 
 
@@ -36,14 +36,14 @@ If you have any feedback to offer there are three ways we invite you to do that.
 
 - Discussion in person. Please feel free to approach any of the people named below to discuss this. 
 
-- By sending email to <a href="mailto:specialcharacterfeedback@gmail.com">specialcharacterfeedback@gmail.com</a>.
+- By sending email to <a href="mailto:specialcharacterfeedback@gmail.com?subject=Feedback+regarding+the+Special+Character+Guidelines+proposal">specialcharacterfeedback@gmail.com</a>.
 
 - By joining our online and email discussion group at <a href="http://groups.tera.school.nz/groups/scd/">http://groups.tera.school.nz/groups/scd/</a>
 
 
 ### What happens next?
 
-Based on the feedback given, there may be a need to have more discussion around this proposal in person. Alternatively we may move to formally ratify this as our new Special Character. 
+Based on the feedback given, there may be a need to have more discussion around this proposal in person. Alternatively we may move to formally ratify this as our new Special Character Guidelines. 
 
 Once there is wide agreement, the KWT trust, as guardians of the special character at Te Ra school, has the formal responsibility to adopt the proposal (or otherwise). At this point the trust, the board and the college of teachers can move to ensure the new guidelines are incorporated into the parent handout, the school charter, the code of conduct and into our public website.
 
