@@ -36,7 +36,7 @@ If you have any feedback to offer there are three ways we invite you to do that.
 
 - Discussion in person. Please feel free to approach any of the people named below to discuss this. 
 
-- By sending email to <a href="mailto:scd@groups.tera.school.nz">scd@groups.tera.school.nz</a>.
+- By sending email to <a href="mailto:thoughts@teraproposal.org.nz">thoughts@teraproposal.org.nz</a>.
 
 - By joining our online and email discussion group at <a href="http://groups.tera.school.nz/groups/scd/">http://groups.tera.school.nz/groups/scd/</a>
 
